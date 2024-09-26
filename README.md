@@ -4,7 +4,7 @@
 
 ### Inspiration: *Soul* (2020)
 
-In Pixar's *Soul* (2020), the depiction of the souls in "The Great Before", the realm where unborn souls prepare to come to the earth (as shown in the screenshots below). The slightly gradient color and the translucent forms of the souls move in smooth, continuous flows have created a sense of weightlessness and ethereal presence. The way these forms an beautiful example of fluid motion in digital art had inspired me to explore more of this aspect applying what I learned in this unit. The artistic geometry shapes, lines and different layers of colors in a flow of motions evoke a sense of dynamic transformation, generating more engaged and visualised scenes for audiences when incorprating this part to my final project.
+In Pixar's *Soul* (2020), the depiction of the souls in *The Great Before* , the realm where unborn souls prepare to come to the earth (as shown in the screenshots below). The slightly gradient color and the translucent forms of the souls move in smooth, continuous flows have created a sense of weightlessness and ethereal presence. The way these forms an beautiful example of fluid motion in digital art had inspired me to explore more of this aspect applying what I learned in this unit. The artistic geometry shapes, lines and different layers of colors in a flow of motions evoke a sense of dynamic transformation, generating more engaged and visualised scenes for audiences when incorprating this part to my final project.
 
 #### Screenshots of the Pixar movie *Soul*:
 ![Soul Fluid Motion Example](https://variety.com/wp-content/uploads/2020/12/Soul.jpg?w=1000&h=563&crop=1)
