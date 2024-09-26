@@ -27,7 +27,7 @@ Some example implementations of Perlin Noise in p5.js [here](https://genekogan.c
 
 **Color Interpolation** in p5.js [here](https://p5js.org/examples/repetition-color-interpolation/).
 
-#### Screenshots example of **Perlin Noise** and **Color Interpolation**:
+#### Images example of **Perlin Noise** and **Color Interpolation**:
 ![Perlin Noise Example 1](https://varun.ca/static/630f65e4ae7e4b88ba3593b6a9337da4/chromatic-noise.gif)
 ![Perlin Noise Example 2](https://www.ronja-tutorials.com/assets/images/posts/026/heightLines.png)
 ![Color Interpolation Example](https://i.sstatic.net/Vmyoh.png)
