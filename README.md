@@ -22,7 +22,8 @@ To achieve the fluid, artistic movement in *Soul*, one possible technique is to 
 
 #### Example Code:  
 An example implementation of a **Perlin Noise** in p5.js [here](https://p5js.org/examples/repetition-noise/).
-An example implementation of a**Color Interpolation** in p5.js [here](https://p5js.org/examples/repetition-color-interpolation/).
+
+An example implementation of a **Color Interpolation** in p5.js [here](https://p5js.org/examples/repetition-color-interpolation/).
 
 #### Screenshots:
 ![Perlin Noise Example 1](https://varun.ca/static/630f65e4ae7e4b88ba3593b6a9337da4/chromatic-noise.gif)
