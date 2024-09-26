@@ -21,11 +21,12 @@ In Pixar's *Soul* (2020), the depiction of the souls in *The Great Before*, the 
 To achieve the fluid, artistic movement in *Soul*, one possible technique is to incorporate **Perlin Noise** in p5.js. Perlin noise creates smooth, continuous motion, making it helpful for simulating the flowing movements of the souls. When combined with **Color Interpolation**, it allows for seamless transitions in color, producing soft, non-repeating patterns that feel natural. Blending these effects—smooth movement with subtle color shifts and fading—recreates the abstract, dream-like quality that mirrors the fluid, cloud-like visuals in the movie. The combination evokes the surreal and emotional atmosphere reminiscent of *Soul*.
 
 #### Example Code:  
-An example implementation of a **Perlin Noise** in p5.js [here](https://p5js.org/examples/repetition-noise/).
+**Perlin Noise** in p5.js [here](https://p5js.org/examples/repetition-noise/).
+Some example implementations of Perlin Noise in p5.js [here](https://genekogan.com/code/p5js-perlin-noise/?ref=gorillasun.de).
 
-An example implementation of a **Color Interpolation** in p5.js [here](https://p5js.org/examples/repetition-color-interpolation/).
+**Color Interpolation** in p5.js [here](https://p5js.org/examples/repetition-color-interpolation/).
 
-#### Screenshots:
+#### Screenshots example of **Perlin Noise** and **Color Interpolation**:
 ![Perlin Noise Example 1](https://varun.ca/static/630f65e4ae7e4b88ba3593b6a9337da4/chromatic-noise.gif)
 ![Perlin Noise Example 2](https://www.ronja-tutorials.com/assets/images/posts/026/heightLines.png)
 ![Color Interpolation Example](https://i.sstatic.net/Vmyoh.png)
